@@ -1,10 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Add OPENAI_API_KEY in .env file
+Required Node Version:- 20.12.2
+NPM Version:- 10.5.0
+```bash
+Run node setup.js
+
 
 First, run the development server:
 
 ```bash
+npm install
+
 npm run dev
 # or
 yarn dev
